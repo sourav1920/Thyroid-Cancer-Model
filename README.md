@@ -1,3 +1,4 @@
+*Thyroid Cancer Model*
 Project Report  
 Abstract
 The project aimed to analyze data related to thyroid cancer patients to predict the recurrence of cancer. Various machine learning algorithms were employed for this purpose, including Random Forest Regression, Logistic Regression, and K-Nearest Neighbors Regression. The dataset underwent extensive preprocessing, including handling missing values, removing duplicates, correcting spelling mistakes, and encoding categorical variables. The performance of each model was evaluated using metrics such as Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, and Accuracy.
