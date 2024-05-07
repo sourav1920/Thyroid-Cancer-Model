@@ -22,8 +22,8 @@ In conclusion, the project successfully developed machine learning models for pr
  
 
 References:
-Sabato, C. (2023, December 11). How to read CSV files using Pandas: Step-By-Step. CodeFatherTech. https://codefather.tech/blog/pandas-read-csv/
-Sabato, C. (2023b, December 11). How to read CSV files using Pandas: Step-By-Step. CodeFatherTech. https://codefather.tech/blog/pandas-read-csv/
-Machine Learning Plus. (2022, March 8). Pandas read_csv() – How to read a csv file in Python. https://www.machinelearningplus.com/pandas/pandas-read_csv-completed/
-Pykes, K. (2023, February 27). pandas read csv() Tutorial: Importing Data. https://www.datacamp.com/tutorial/pandas-read-csv
-Nik. (2023, April 5). Pandas read_csv() – Read CSV and Delimited Files in Pandas. Datagy. https://datagy.io/pandas-read_csv/
+Sabato, C. (2023, December 11). How to read CSV files using Pandas: Step-By-Step. CodeFatherTech. https://codefather.tech/blog/pandas-read-csv/.
+Sabato, C. (2023b, December 11). How to read CSV files using Pandas: Step-By-Step. CodeFatherTech. https://codefather.tech/blog/pandas-read-csv/.
+Machine Learning Plus. (2022, March 8). Pandas read_csv() – How to read a csv file in Python. https://www.machinelearningplus.com/pandas/pandas-read_csv-completed/.
+Pykes, K. (2023, February 27). pandas read csv() Tutorial: Importing Data. https://www.datacamp.com/tutorial/pandas-read-csv.
+Nik. (2023, April 5). Pandas read_csv() – Read CSV and Delimited Files in Pandas. Datagy. https://datagy.io/pandas-read_csv/.
